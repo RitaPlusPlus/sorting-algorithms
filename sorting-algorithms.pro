@@ -13,6 +13,7 @@ SOURCES += \
     mainwindow.cpp
 
 HEADERS += \
+    array-vector.h \
     mainwindow.h
 
 FORMS += \
